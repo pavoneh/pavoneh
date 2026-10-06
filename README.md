@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#sobre-mí">Sobre mí</a> &nbsp; / &nbsp;
+  <a href="#sobre-mí">👩‍💻  About Me:</a> &nbsp; / &nbsp;
   <a href="#tecnologías">Tecnologías</a> &nbsp; / &nbsp;
   <a href="#mi-github-en-números">Estadísticas</a> &nbsp; / &nbsp;
   <a href="#proyectos-destacados">Proyectos</a>
@@ -32,20 +32,22 @@ Me gusta convertir ideas en experiencias web y cuidar tanto el código como su p
 
 ## Tecnologías
 
-Herramientas presentes en mis proyectos:
+🛠 Language and tools:
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" height="48" width="48" alt="HTML5" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" height="48" width="48" alt="CSS3" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" height="48" width="48" alt="JavaScript" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" height="48" width="48" alt="Java" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bootstrap/bootstrap-original.svg" height="48" width="48" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="48" width="48" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/php/php-original.svg" height="48" width="48" alt="PHP" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" height="48" width="48" alt="Git" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="48" width="48" alt="XAMPP" /> &nbsp;&nbsp;
-</p>
-<p align="center"><sub>HTML · CSS · JavaScript · Bootstrap</sub></p>
+<div align="left">
+  <p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" height="40"/> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" height="40"/> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" height="40"/> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" height="40"/> </a>
+  </p>
 
 ## Mi GitHub en números
 
