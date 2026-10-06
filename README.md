@@ -1,325 +1,273 @@
-<!-- ========================= -->
-<!--        INTRODUCTION       -->
-<!-- ========================= -->
-
-<h1 align="center">Hi 👋, I'm Guillermo</h1>
-
-<h3 align="center">
-  Software Developer • Building, learning & improving through code
-</h3>
+<!-- ====================================================== -->
+<!--                      HEADER                            -->
+<!-- ====================================================== -->
 
 <p align="center">
-  I enjoy turning ideas into real projects, experimenting with new technologies,
-  and improving one project at a time.
+  <img src="./assets/banner.svg" width="100%" alt="pavoneh — Software Developer" />
+</p>
+
+<h1 align="center">
+  Guillermo <code>@pavoneh</code>
+</h1>
+
+<p align="center">
+  <strong>Software Developer focused on turning ideas into things that work.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pavoneh?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20my%20projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  Web Development &nbsp;•&nbsp; Software &nbsp;•&nbsp; UI &nbsp;•&nbsp; Technology
 </p>
 
 <br>
 
 
-<!-- ========================= -->
-<!--           ABOUT           -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                       ABOUT                            -->
+<!-- ====================================================== -->
 
-## 👨‍💻 About Me
+## 👨‍💻 A little about me
 
-```javascript
-const guillermo = {
-  username: "pavoneh",
+I learn best when I have something to build.
+
+Instead of collecting technologies, I prefer to understand **why and when to use them** — then put that knowledge into real projects.
+
+Most of what you'll find here comes from curiosity: an idea, a problem I want to solve, or simply something I want to understand better.
+
+```js id="lpr80w"
+const pavoneh = {
   role: "Software Developer",
 
-  interests: [
-    "Web Development",
-    "Software",
-    "Gaming",
-    "Hardware"
+  likes: [
+    "building for the web",
+    "clean interfaces",
+    "gaming & hardware",
+    "learning how things work"
   ],
 
-  currently: "Building projects and improving my skills",
+  approach: "learn → build → break → understand → improve",
 
-  philosophy: "Learn it. Build it. Break it. Improve it."
+  currentGoal: "make the next project better than the last"
 };
 ```
 
-I like learning through **building real things** rather than simply collecting technologies.
-
-Every project is an opportunity to experiment, understand something new and make the next one better.
 
 <br>
 
 
-<!-- ========================= -->
-<!--        TECHNOLOGIES       -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                      TOOLBOX                           -->
+<!-- ====================================================== -->
 
-## 🛠️ Tech Stack
+## 🧰 My toolbox
+
+<p>
+  Technologies I've worked with, used in projects, or I'm currently exploring:
+</p>
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,py,react,tailwind,bootstrap,git&perline=11"
-    alt="Tech Stack"
+    alt="HTML, CSS, JavaScript, TypeScript, Java, PHP, Python, React, Tailwind CSS, Bootstrap and Git"
   />
 </p>
 
 <p align="center">
   <sub>
-    HTML · CSS · JavaScript · TypeScript · Java · PHP · Python · React · Tailwind CSS · Bootstrap · Git
+    HTML &nbsp;·&nbsp;
+    CSS &nbsp;·&nbsp;
+    JavaScript &nbsp;·&nbsp;
+    TypeScript &nbsp;·&nbsp;
+    Java &nbsp;·&nbsp;
+    PHP &nbsp;·&nbsp;
+    Python &nbsp;·&nbsp;
+    React &nbsp;·&nbsp;
+    Tailwind CSS &nbsp;·&nbsp;
+    Bootstrap &nbsp;·&nbsp;
+    Git
   </sub>
 </p>
+
 
 <br>
 
 
-<!-- ========================= -->
-<!--        CURRENTLY          -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                  WHAT I'M DOING                        -->
+<!-- ====================================================== -->
 
-## 🚀 Currently
+## 🧪 What I'm working on
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🔨 Building
+### 🔨 Build
 
-- Personal web projects
-- New portfolio experiences
-- Better and cleaner interfaces
-- Projects that challenge my current skills
+Turning small ideas into projects that I can actually use, test and improve.
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🌱 Improving
+### 🧠 Understand
 
-- Java
-- JavaScript / TypeScript
-- React
-- Modern web development
-- Clean & maintainable code
+Going beyond syntax and learning what happens behind the tools I use.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔁 Improve
+
+Revisiting old projects and applying what I know now to what I built before.
 
 </td>
 
 </tr>
 </table>
 
+
 <br>
 
 
-<!-- ========================= -->
-<!--           STATS           -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                    PROJECTS                            -->
+<!-- ====================================================== -->
 
-## 📊 GitHub Analytics
+## 🚀 Things I've built
+
+<p>
+  A few projects that represent different stages of my learning:
+</p>
+
+<a href="https://github.com/pavoneh/novaforce-web">
+  <img
+    src="./assets/nova-force.svg"
+    width="100%"
+    alt="Nova Force — Gaming PC catalog"
+  />
+</a>
+
+<br>
+
+<a href="https://github.com/pavoneh/PERU-CAR">
+  <img
+    src="./assets/peru-car.svg"
+    width="100%"
+    alt="Peru Car — Automotive website"
+  />
+</a>
+
+<br>
+
+<a href="https://github.com/pavoneh/pagina-web-riotgames">
+  <img
+    src="./assets/riot-games.svg"
+    width="100%"
+    alt="Riot Games inspired website"
+  />
+</a>
+
+<p align="center">
+  <a href="https://github.com/pavoneh?tab=repositories">
+    <strong>See everything I'm building →</strong>
+  </a>
+</p>
+
+
+<br>
+
+
+<!-- ====================================================== -->
+<!--                    GITHUB DATA                         -->
+<!-- ====================================================== -->
+
+## 📊 Behind the repositories
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=pavoneh&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    alt="Guillermo's GitHub Stats"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=pavoneh&show_icons=true&hide_border=true&theme=transparent&hide_title=true"
+    alt="GitHub statistics"
   />
 
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavoneh&layout=compact&hide_border=true&theme=github_dark"
-    alt="Most Used Languages"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavoneh&layout=compact&hide_border=true&theme=transparent"
+    alt="Most used languages"
   />
 </p>
+
 
 <br>
 
 
-<!-- ========================= -->
-<!--          STREAK           -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                 CONTRIBUTIONS                         -->
+<!-- ====================================================== -->
 
-## 🔥 Coding Activity
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=pavoneh&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<br>
-
-
-<!-- ========================= -->
-<!--        ACTIVITY GRAPH     -->
-<!-- ========================= -->
-
-## 📈 Contribution Activity
+## 📈 Building in public
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=pavoneh&theme=github-compact&hide_border=true&area=true"
     width="100%"
-    alt="Contribution Graph"
+    alt="Guillermo's contribution activity"
   />
 </p>
 
-<br>
-
-
-<!-- ========================= -->
-<!--       FEATURED WORK       -->
-<!-- ========================= -->
-
-## 🧩 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🖥️ Nova Force
-
-Gaming-inspired PC catalog focused on presenting different hardware configurations and performance tiers.
-
-**Built with**
-
-`HTML` `CSS` `Bootstrap`
-
-<a href="https://github.com/pavoneh/novaforce-web">
-  View repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚗 Perú Car
-
-Website created for an auto boutique featuring services, vehicles, gallery and contact information.
-
-**Built with**
-
-`HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/pavoneh/PERU-CAR">
-  View repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎮 Riot Games Web
-
-Unofficial multi-page web project inspired by Riot Games and created as a frontend practice project.
-
-**Built with**
-
-`HTML` `CSS`
-
-<a href="https://github.com/pavoneh/pagina-web-riotgames">
-  View repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚧 Next Project
-
-Something new is being built.
-
-```text
-Status
-████████░░ 80%
-
-> Building...
-```
-
-More projects coming soon.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-
-<!-- ========================= -->
-<!--          WORKFLOW         -->
-<!-- ========================= -->
-
-## ⚡ How I Work
-
 <p align="center">
-
-`💡 Idea`
-&nbsp; → &nbsp;
-`🎨 Design`
-&nbsp; → &nbsp;
-`💻 Build`
-&nbsp; → &nbsp;
-`🐛 Debug`
-&nbsp; → &nbsp;
-`🚀 Improve`
-
+  <sub>
+    Projects change. Technologies change. The goal stays the same: keep building.
+  </sub>
 </p>
 
-<br>
-
-
-<!-- ========================= -->
-<!--        PHILOSOPHY         -->
-<!-- ========================= -->
-
-## 💭 Developer Mindset
-
-```text
-$ whoami
-
-Developer who learns by building.
-
-$ current_goal
-
-Turn ideas into better projects.
-
-$ strategy
-
-Build → Break → Understand → Improve → Repeat
-
-$ status
-
-Still learning...
-_
-```
 
 <br>
 
 
-<!-- ========================= -->
-<!--           FOOTER          -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                   THE LOOP                             -->
+<!-- ====================================================== -->
+
+## ♻️ The loop
+
+<p align="center">
+  <code>idea</code>
+  &nbsp;→&nbsp;
+  <code>build</code>
+  &nbsp;→&nbsp;
+  <code>break</code>
+  &nbsp;→&nbsp;
+  <code>debug</code>
+  &nbsp;→&nbsp;
+  <code>understand</code>
+  &nbsp;→&nbsp;
+  <code>improve</code>
+  &nbsp;↻
+</p>
+
+
+<br>
+
+
+<!-- ====================================================== -->
+<!--                     FOOTER                             -->
+<!-- ====================================================== -->
 
 ---
 
 <p align="center">
-  <b>Code. Build. Improve. Repeat.</b>
+  <strong>I'm not trying to know everything.</strong>
 </p>
 
 <p align="center">
-  <sub>Every repository is another step forward.</sub>
+  I'm trying to understand more with every project I build.
 </p>
 
 <p align="center">
   <a href="https://github.com/pavoneh?tab=repositories">
-    Explore my repositories →
+    <code>./explore-projects</code>
   </a>
 </p>
