@@ -1,0 +1,47 @@
+name: Update profile card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 11 * * *' # Daily at 06:23 in Lima (UTC-5).
+  push:
+    branches: [main]
+    paths:
+      - scripts/update-profile.py
+      - .github/workflows/profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'pavoneh/pavoneh'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the profile
+        uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Generate the card from public GitHub data
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/update-profile.py
+
+      - name: Save the updated card
+        shell: bash
+        run: |
+          git add assets/github-stats.svg
+          if git diff --cached --quiet; then
+            echo "The profile card is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile statistics"
+          git push origin HEAD:main
