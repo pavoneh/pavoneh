@@ -2,41 +2,41 @@
   <img src="./assets/banner.svg" width="100%" alt="Guillermo Euribe · @pavoneh · Software Development" />
 </p>
 
-<h1 align="center">Hola, soy Guillermo 👋</h1>
+<h1 align="center">Hi, I'm Guillermo 👋</h1>
 
 <p align="center">
-  <strong>Aprendo, construyo y comparto lo que voy creando.</strong>
+  <strong>I learn, build, and share what I create along the way.</strong>
 </p>
 
 <p align="center">
-  Desarrollo web&nbsp;&nbsp;·&nbsp;&nbsp;Interfaces visuales&nbsp;&nbsp;·&nbsp;&nbsp;Software&nbsp;&nbsp;·&nbsp;&nbsp;Nuevos proyectos
+  Web Development&nbsp;&nbsp;·&nbsp;&nbsp;Visual Interfaces&nbsp;&nbsp;·&nbsp;&nbsp;Software&nbsp;&nbsp;·&nbsp;&nbsp;New Projects
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-Me gusta convertir ideas en experiencias web y cuidar tanto **lo que ocurre detrás del código** como lo que termina viendo el usuario.
+I enjoy turning ideas into web experiences and caring about both **what happens behind the code** and what users ultimately see.
 
-💡 **Construyo**  
-Mi portafolio a través de proyectos prácticos.
+💡 **I build**  
+My portfolio through practical, hands-on projects.
 
-🎮 **Exploro**  
-Gaming, hardware, tecnología y sitios de negocios.
+🎮 **I explore**  
+Gaming, hardware, technology, and business websites.
 
-🌱 **Sigo aprendiendo**  
-Fortalezco mis bases mientras incorporo nuevas tecnologías.
+🌱 **I keep learning**  
+Strengthening my foundations while exploring new technologies.
 
-🚀 **Comparto**  
-Mis proyectos, experimentos y lo que aprendo construyéndolos.
+🚀 **I share**  
+My projects, experiments, and what I learn while building them.
 
 <br>
 
-> **No colecciono tecnologías. Aprendo las que necesito para construir lo que imagino.**
+> **I don't collect technologies. I learn the ones I need to build what I imagine.**
 
 </td>
 
@@ -52,21 +52,21 @@ role:
   "Software Developer"
 
 location:
-  "Lima, Perú"
+  "Lima, Peru"
 
 current_focus:
-  - Desarrollo Web
-  - Proyectos personales
-  - Mejorar mis habilidades
+  - Web Development
+  - Personal Projects
+  - Improving my skills
 
 interests:
   - Gaming
   - Hardware
-  - Tecnología
-  - Diseño Web
+  - Technology
+  - Web Design
 
 philosophy:
-  "Construir para aprender"
+  "Build to learn"
 
 status:
   "Building..."
@@ -78,14 +78,14 @@ status:
 
 ---
 
-## ⚙️ Tecnologías
+## ⚙️ Technologies
 
 <p>
-  Herramientas que utilizo y sigo aprendiendo:
+  Tools and technologies I use and continue to learn:
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,py,react,tailwind,bootstrap,git&perline=11" alt="Tecnologías y herramientas" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,py,react,tailwind,bootstrap,git&perline=11" alt="Technologies and tools" />
 </p>
 
 <p align="center">
@@ -94,34 +94,34 @@ status:
 
 ---
 
-## 🎯 Actualmente construyendo
+## 🎯 Currently Building
 
 ```text
-◉ Mejorar mi portafolio personal
-◉ Explorar nuevas ideas de proyectos
-◉ Fortalecer Java y desarrollo web
-◉ Implementar más proyectos reales
+◉ Improving my personal portfolio
+◉ Exploring new project ideas
+◉ Strengthening my Java and web development skills
+◉ Building more real-world projects
 
 Status: ███████░░░ Building...
 ```
 
 ---
 
-## 🧩 Mi proceso
+## 🧩 How I Build
 
 <p align="center">
 
-**💡 Idea**　→　**📝 Diseño**　→　**💻 Código**　→　**🐛 Debug**　→　**🚀 Resultado**
+**💡 Idea**　→　**📝 Design**　→　**💻 Code**　→　**🐛 Debug**　→　**🚀 Result**
 
 </p>
 
 <p align="center">
-  <sub>Construir → romper → entender → mejorar → repetir.</sub>
+  <sub>Build → break → understand → improve → repeat.</sub>
 </p>
 
 ---
 
-## 🎮 Más allá del código
+## 🎮 Beyond the Code
 
 ```text
 Guillermo@pavoneh
@@ -129,46 +129,46 @@ Guillermo@pavoneh
 
 🎮 Gaming        ██████████
 🖥️ Hardware      ██████████
-🌐 Desarrollo    ██████████
-🎨 Diseño Web    ███████░░░
-🔧 Experimentar  █████████░
+🌐 Development   ██████████
+🎨 Web Design    ███████░░░
+🔧 Experimenting █████████░
 
-> Siempre hay algo nuevo que aprender_
+> There's always something new to learn_
 ```
 
 ---
 
-## 📊 Mi GitHub en números
+## 📊 My GitHub in Numbers
 
 <p align="center">
-  <img src="./assets/github-stats.svg" width="100%" alt="Estadísticas de mis proyectos públicos y distribución de lenguajes por bytes de código." />
+  <img src="./assets/github-stats.svg" width="100%" alt="Statistics from my public projects and language distribution by bytes of code." />
 </p>
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Featured Projects
 
 <a href="https://github.com/pavoneh/novaforce-web">
-  <img src="./assets/nova-force.svg" width="100%" alt="Nova Force — Catálogo de PCs por gamas con estética gaming. HTML, CSS y Bootstrap." />
+  <img src="./assets/nova-force.svg" width="100%" alt="Nova Force — Gaming-inspired PC catalog organized by performance tiers. HTML, CSS and Bootstrap." />
 </a>
 
 <br>
 
 <a href="https://github.com/pavoneh/PERU-CAR">
-  <img src="./assets/peru-car.svg" width="100%" alt="Perú Car — Servicios, galería y contacto para una auto boutique. HTML, CSS y JavaScript." />
+  <img src="./assets/peru-car.svg" width="100%" alt="Peru Car — Services, gallery and contact website for an auto boutique. HTML, CSS and JavaScript." />
 </a>
 
 <br>
 
 <a href="https://github.com/pavoneh/pagina-web-riotgames">
-  <img src="./assets/riot-games.svg" width="100%" alt="Riot Games Web — Práctica no oficial de un sitio multipágina. HTML y CSS." />
+  <img src="./assets/riot-games.svg" width="100%" alt="Riot Games Web — Unofficial multi-page website practice project. HTML and CSS." />
 </a>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/pavoneh?tab=repositories">
-    <strong>Explorar todos mis repositorios →</strong>
+    <strong>Explore all my repositories →</strong>
   </a>
 </p>
 
@@ -179,5 +179,5 @@ Guillermo@pavoneh
 </p>
 
 <p align="center">
-  <sub>Una idea → un proyecto → algo nuevo que aprender.</sub>
+  <sub>One idea → one project → something new to learn.</sub>
 </p>
