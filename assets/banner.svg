@@ -1,20 +1,65 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
-<title id="title">Guillermo · Desarrollo de Software</title>
-<desc id="desc">Portada oscura con acentos cian y violeta. Construyendo ideas, una línea a la vez. Lima, Perú.</desc>
-<defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#17152f"/></linearGradient>
-<linearGradient id="accent"><stop stop-color="#43e4dc"/><stop offset="1" stop-color="#a88bfa"/></linearGradient>
-<pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#879ab7" stroke-opacity=".07"/></pattern>
-</defs>
-<rect width="1280" height="420" rx="24" fill="url(#bg)"/><rect width="1280" height="420" rx="24" fill="url(#grid)"/>
-<circle cx="1110" cy="205" r="142" fill="none" stroke="#a88bfa" stroke-opacity=".35" stroke-dasharray="120 55"><animateTransform attributeName="transform" type="rotate" from="0 1110 205" to="360 1110 205" dur="35s" repeatCount="indefinite"/></circle>
-<circle cx="1110" cy="205" r="111" fill="none" stroke="#43e4dc" stroke-opacity=".4" stroke-dasharray="20 40"><animateTransform attributeName="transform" type="rotate" from="360 1110 205" to="0 1110 205" dur="40s" repeatCount="indefinite"/></circle>
-<path d="M64 65H140" stroke="url(#accent)" stroke-width="4"/>
-<text x="64" y="111" font-family="Arial, sans-serif" font-size="15" letter-spacing="4" fill="#56e2db">SOFTWARE DEVELOPMENT</text>
-<text x="60" y="207" font-family="Arial, sans-serif" font-weight="700" font-size="83" fill="#f1f5ff">Guillermo<tspan fill="#56e2db">.</tspan></text>
-<text x="64" y="257" font-family="Arial, sans-serif" font-size="25" fill="#b5c1d7">Construyendo ideas, una línea a la vez.</text>
-<text x="64" y="332" font-family="Arial, sans-serif" font-size="17" fill="#91a2bf">DESARROLLO DE SOFTWARE EN FORMACIÓN</text>
-<text x="64" y="363" font-family="Arial, sans-serif" font-size="16" fill="#91a2bf">Lima, Perú · ISIL · @Guillermo1euribe</text>
-<text x="990" y="225" font-family="monospace" font-size="88" font-weight="700" fill="url(#accent)">&lt;/&gt;</text>
-<rect x="64" y="400" width="1152" height="2" fill="url(#accent)" opacity=".5"/>
+  <title id="title">Guillermo Euribe — Software development</title>
+  <desc id="desc">Perfil de pavoneh. Ideas que se convierten en código. Ilustración original de una terminal entre órbitas y conexiones, en cian y violeta sobre azul oscuro.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111925"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#43e4dc"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#233348"/><stop offset="1" stop-color="#121a29"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#4c3c8c" stop-opacity=".35"/><stop offset="1" stop-color="#4c3c8c" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8cadd0" stroke-opacity=".045"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000" flood-opacity=".3"/></filter>
+    <clipPath id="frame"><rect width="1280" height="420" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="420" fill="url(#bg)"/>
+    <rect width="1280" height="420" fill="url(#grid)"/>
+    <ellipse cx="1050" cy="220" rx="340" ry="320" fill="url(#glow)"/>
+    <path d="M0 419H1280" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M764 0V420" stroke="#8cadd0" stroke-opacity=".08"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <g transform="translate(72 56)">
+        <rect width="34" height="34" rx="10" fill="#43e4dc" fill-opacity=".09" stroke="#43e4dc" stroke-opacity=".3"/>
+        <path d="m12 11-6 6 6 6m10-12 6 6-6 6m-3-16-4 20" fill="none" stroke="#43e4dc" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="49" y="23" fill="#b3c2d4" font-size="18" font-family="Consolas, monospace">@pavoneh</text>
+      </g>
+      <text x="72" y="154" fill="#43e4dc" font-size="14" font-weight="600" letter-spacing="3.2">SOFTWARE DEVELOPMENT</text>
+      <text x="68" y="224" fill="#f3f6fc" font-size="64" font-weight="700" letter-spacing="-2.5">Guillermo Euribe</text>
+      <text x="72" y="271" fill="#acbdd2" font-size="25">Ideas que se convierten en código.</text>
+      <path d="M72 321H128" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+      <text x="143" y="327" fill="#788da7" font-family="Consolas, monospace" font-size="15">learn · build · repeat</text>
+    </g>
+    <g fill="none" stroke-linecap="round">
+      <ellipse cx="1015" cy="218" rx="197" ry="136" transform="rotate(-24 1015 218)" stroke="#a78bfa" stroke-opacity=".24" stroke-dasharray="3 9"/>
+      <path d="M804 177h31v-63h57m265 175h38v-98h34M903 354v-28h50" stroke="#43e4dc" stroke-opacity=".25" stroke-width="1.5"/>
+      <circle cx="804" cy="177" r="4" fill="#43e4dc" stroke="#43e4dc"/>
+      <circle cx="1229" cy="191" r="4" fill="#a78bfa" stroke="#a78bfa"/>
+      <circle cx="903" cy="354" r="4" fill="#0d1117" stroke="#43e4dc"/>
+    </g>
+    <g transform="translate(861 121) rotate(-5 153 101)" filter="url(#shadow)">
+      <rect width="306" height="204" rx="15" fill="url(#glass)" stroke="#53617c" stroke-width="1.3"/>
+      <path d="M0 41H306" stroke="#53617c" stroke-opacity=".5"/>
+      <circle cx="20" cy="21" r="4" fill="#a78bfa"/><circle cx="35" cy="21" r="4" fill="#43e4dc"/><circle cx="50" cy="21" r="4" fill="#455972"/>
+      <text x="280" y="25" text-anchor="end" fill="#8094af" font-family="Consolas, monospace" font-size="10">~/ideas</text>
+      <g font-family="Consolas, monospace" font-size="15">
+        <text x="23" y="77" fill="#a78bfa">const <tspan fill="#dce6f4">idea = {</tspan></text>
+        <text x="40" y="104" fill="#a8bfd9">curiosity: <tspan fill="#43e4dc">true</tspan><tspan fill="#dce6f4">,</tspan></text>
+        <text x="40" y="131" fill="#a8bfd9">possibilities: <tspan fill="#43e4dc">∞</tspan></text>
+        <text x="23" y="158" fill="#dce6f4">};</text>
+        <text x="23" y="185" fill="#43e4dc">› <tspan fill="#dce6f4">build(idea)</tspan></text>
+      </g>
+      <path d="M153 175h8" stroke="#43e4dc" stroke-width="2"/>
+    </g>
+    <g transform="translate(1125 68) rotate(9 37 37)" filter="url(#shadow)">
+      <rect width="74" height="74" rx="20" fill="#1b2340" stroke="#a78bfa" stroke-opacity=".6"/>
+      <path d="m27 26-12 11 12 11m20-22 12 11-12 11m-5-29-10 36" fill="none" stroke="#c4b2ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(824 290) rotate(-9 38 31)" filter="url(#shadow)">
+      <rect width="76" height="62" rx="16" fill="#132b33" stroke="#43e4dc" stroke-opacity=".55"/>
+      <path d="m22 23 10 8-10 8m18 0h15" fill="none" stroke="#67eee5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g fill="none" stroke="#a78bfa" stroke-width="1.5" opacity=".8"><path d="M987 64v14m-7-7h14M1175 346v10m-5-5h10"/></g>
+    <g fill="#43e4dc"><circle cx="803" cy="97" r="2" opacity=".7"/><circle cx="1203" cy="267" r="2" opacity=".65"/><circle cx="1020" cy="365" r="2" opacity=".4"/></g>
+    <text x="1208" y="390" text-anchor="end" fill="#677b94" font-family="Consolas, monospace" font-size="11" letter-spacing="1.6">&lt; HELLO, WORLD /&gt;</text>
+  </g>
+  <rect x=".5" y=".5" width="1279" height="419" rx="23.5" fill="none" stroke="#303b4d"/>
 </svg>

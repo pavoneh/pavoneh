@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="280" viewBox="0 0 420 280" role="img" aria-labelledby="title desc">
+  <title id="title">Learn, build, repeat</title>
+  <desc id="desc">Una terminal original en cian y violeta muestra un ciclo de aprendizaje y creación, con un cursor animado y conexiones sutiles.</desc>
+  <style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#43e4dc" stop-opacity=".55"/><stop offset="1" stop-color="#a78bfa" stop-opacity=".45"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#493b79" stop-opacity=".28"/><stop offset="1" stop-color="#493b79" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x=".5" y=".5" width="419" height="279" rx="18" fill="#0d1117" stroke="#29364a"/>
+  <ellipse cx="289" cy="138" rx="158" ry="122" fill="url(#halo)"/>
+  <g fill="none" stroke="#465575" stroke-opacity=".65"><path d="M22 111h21m334 56h21M74 226v18h82M342 60V37h-61"/><circle cx="22" cy="111" r="3"/><circle cx="398" cy="167" r="3"/></g>
+  <rect x="43" y="47" width="334" height="176" rx="12" fill="#121b28" stroke="url(#edge)"/>
+  <path d="M44 83H376" stroke="#2a374c"/>
+  <circle cx="61" cy="65" r="3.5" fill="#a78bfa"/><circle cx="75" cy="65" r="3.5" fill="#43e4dc"/><circle cx="89" cy="65" r="3.5" fill="#435570"/>
+  <text x="356" y="69" text-anchor="end" fill="#8094af" font-family="Consolas, monospace" font-size="11">./workspace</text>
+  <g font-family="Consolas, monospace" font-size="14">
+    <text x="62" y="113" fill="#7087a3">// one idea at a time</text>
+    <text x="62" y="143" fill="#43e4dc">❯ <tspan fill="#e0e8f5">learn</tspan><tspan fill="#7087a3"> → </tspan><tspan fill="#e0e8f5">build</tspan><tspan fill="#7087a3"> → </tspan><tspan fill="#e0e8f5">repeat</tspan></text>
+    <text x="62" y="178" fill="#a78bfa">function <tspan fill="#e0e8f5">next() {</tspan></text>
+    <text x="79" y="201" fill="#a8bfd9">return <tspan fill="#43e4dc">aNewPossibility</tspan><tspan fill="#e0e8f5">; }</tspan></text>
+  </g>
+  <g fill="#43e4dc">
+    <rect class="motion" x="294" y="133" width="7" height="12" rx="1"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.4s" repeatCount="indefinite"/></rect>
+    <rect class="still" x="294" y="133" width="7" height="12" rx="1"/>
+  </g>
+  <path d="M159 244H266" fill="none" stroke="#26384d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M159 244H196" fill="none" stroke="#43e4dc" stroke-width="2" stroke-linecap="round"/>
+  <circle class="motion" cx="159" cy="244" r="3" fill="#a78bfa"><animate attributeName="cx" values="159;266;159" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;1;.5" dur="7s" repeatCount="indefinite"/></circle>
+  <circle class="still" cx="212" cy="244" r="3" fill="#a78bfa"/>
+  <path d="M356 27v10m-5-5h10" fill="none" stroke="#a78bfa" stroke-opacity=".8" stroke-linecap="round"/>
+</svg>

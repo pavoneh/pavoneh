@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-labelledby="title desc">
+<title id="title">Riot Games · Web</title><desc id="desc">Práctica no oficial de un sitio multipágina inspirado en videojuegos. HTML y CSS.</desc>
+<defs><linearGradient id="b"><stop stop-color="#11192a"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect x="1" y="1" width="1098" height="218" rx="18" fill="url(#b)" stroke="#2d3549"/>
+<rect x="1" y="24" width="4" height="172" rx="2" fill="#fb7185"/>
+<text x="36" y="38" fill="#fb7185" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">03 / GAMING / PRÁCTICA WEB</text>
+<text x="34" y="87" fill="#f1f5ff" font-family="Arial,sans-serif" font-weight="700" font-size="36">RIOT GAMES · WEB</text>
+<text x="36" y="123" fill="#adbad0" font-family="Arial,sans-serif" font-size="17">Proyecto de práctica no oficial con páginas y contenido multimedia.</text>
+<text x="36" y="178" fill="#fb7185" font-family="monospace" font-size="14">HTML  ·  CSS</text>
+<text x="920" y="185" fill="#dfe7f5" font-family="Arial,sans-serif" font-size="14">Ver proyecto →</text>
+<g stroke="#fb7185" fill="none" opacity=".65" stroke-width="3"><path d="M933 57h80c25 0 38 65 26 71-10 5-27-24-35-24h-62c-8 0-25 29-35 24-12-6 1-71 26-71z"/><path d="M926 78v22m-11-11h22"/><circle cx="1005" cy="80" r="4"/><circle cx="1020" cy="95" r="4"/></g>
+</svg>
