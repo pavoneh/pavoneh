@@ -85,7 +85,7 @@ status:
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,py,react,tailwind,bootstrap,git&perline=11" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,py,react,tailwind,bootstrap,git,perline&XAMPP=11" alt="Technologies and tools" />
   <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="48" width="48" alt="XAMPP" /> &nbsp;&nbsp;
 </p>
 
