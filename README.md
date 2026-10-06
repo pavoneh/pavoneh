@@ -112,22 +112,10 @@ Status: ███████░░░ Building...
   <img src="./assets/github-stats.svg" width="100%" alt="Statistics from my public projects and language distribution by bytes of code." />
 </p>
 
----
-
 <br>
 
 <p align="center">
   <a href="https://github.com/pavoneh?tab=repositories">
     <strong>Explore all my repositories →</strong>
   </a>
-</p>
-
----
-
-<p align="center">
-  <code>while (learning) { build(); improve(); repeat(); }</code>
-</p>
-
-<p align="center">
-  <sub>One idea → one project → something new to learn.</sub>
 </p>
