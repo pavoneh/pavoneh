@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Guillermo · Desarrollo de Software</title>
+<desc id="desc">Portada oscura con acentos cian y violeta. Construyendo ideas, una línea a la vez. Lima, Perú.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#17152f"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#43e4dc"/><stop offset="1" stop-color="#a88bfa"/></linearGradient>
+<pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#879ab7" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1280" height="420" rx="24" fill="url(#bg)"/><rect width="1280" height="420" rx="24" fill="url(#grid)"/>
+<circle cx="1110" cy="205" r="142" fill="none" stroke="#a88bfa" stroke-opacity=".35" stroke-dasharray="120 55"><animateTransform attributeName="transform" type="rotate" from="0 1110 205" to="360 1110 205" dur="35s" repeatCount="indefinite"/></circle>
+<circle cx="1110" cy="205" r="111" fill="none" stroke="#43e4dc" stroke-opacity=".4" stroke-dasharray="20 40"><animateTransform attributeName="transform" type="rotate" from="360 1110 205" to="0 1110 205" dur="40s" repeatCount="indefinite"/></circle>
+<path d="M64 65H140" stroke="url(#accent)" stroke-width="4"/>
+<text x="64" y="111" font-family="Arial, sans-serif" font-size="15" letter-spacing="4" fill="#56e2db">SOFTWARE DEVELOPMENT</text>
+<text x="60" y="207" font-family="Arial, sans-serif" font-weight="700" font-size="83" fill="#f1f5ff">Guillermo<tspan fill="#56e2db">.</tspan></text>
+<text x="64" y="257" font-family="Arial, sans-serif" font-size="25" fill="#b5c1d7">Construyendo ideas, una línea a la vez.</text>
+<text x="64" y="332" font-family="Arial, sans-serif" font-size="17" fill="#91a2bf">DESARROLLO DE SOFTWARE EN FORMACIÓN</text>
+<text x="64" y="363" font-family="Arial, sans-serif" font-size="16" fill="#91a2bf">Lima, Perú · ISIL · @Guillermo1euribe</text>
+<text x="990" y="225" font-family="monospace" font-size="88" font-weight="700" fill="url(#accent)">&lt;/&gt;</text>
+<rect x="64" y="400" width="1152" height="2" fill="url(#accent)" opacity=".5"/>
+</svg>
