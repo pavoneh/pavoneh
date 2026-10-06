@@ -2,20 +2,13 @@
   <img src="./assets/banner.svg" width="100%" alt="Guillermo Euribe · @pavoneh · Software development. Ideas que se convierten en código." />
 </p>
 
-<h1 align="center">Hola, soy Guillermo 👋</h1>
+<h1 align="center">Hola, soy Guillermo / Hi, I'm Guillermo 👋</h1>
 <p align="center">
   <strong>Aprendo, construyo y comparto lo que voy creando.</strong><br />
   Desarrollo web · Interfaces visuales · Nuevos proyectos en camino
 </p>
 
-<p align="center">
-  <a href="#👩‍💻  About Me:">👩‍💻  About Me:</a> &nbsp; / &nbsp;
-  <a href="#tecnologías">Tecnologías</a> &nbsp; / &nbsp;
-  <a href="#mi-github-en-números">Estadísticas</a> &nbsp; / &nbsp;
-  <a href="#proyectos-destacados">Proyectos</a>
-</p>
-
-## Sobre mí
+## 👩‍💻  About Me:
 
 <img align="right" src="./assets/coding.svg" width="36%" alt="Terminal animada: aprender, construir y repetir." />
 
