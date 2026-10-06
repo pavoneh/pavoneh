@@ -38,7 +38,9 @@ Herramientas presentes en mis proyectos:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" height="48" width="48" alt="HTML5" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" height="48" width="48" alt="CSS3" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" height="48" width="48" alt="JavaScript" /> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" height="48" width="48" alt="Java" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bootstrap/bootstrap-original.svg" height="48" width="48" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="48" width="48" alt="Tailwind CSS" />
 </p>
 <p align="center"><sub>HTML · CSS · JavaScript · Bootstrap</sub></p>
 
