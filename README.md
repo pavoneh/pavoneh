@@ -39,7 +39,7 @@ const pavoneh = {
 
 <br>
 
-## 🧰 My toolbox
+## /My toolbox
 
 <p>
   Technologies I've worked with, used in projects, or I'm currently exploring:
@@ -70,14 +70,14 @@ const pavoneh = {
 
 <br>
 
-## 🧪 What I'm working on
+## /What I'm working on
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### 🔨 Build
+### /Build
 
 Turning small ideas into projects that I can actually use, test and improve.
 
@@ -85,7 +85,7 @@ Turning small ideas into projects that I can actually use, test and improve.
 
 <td width="33%" valign="top">
 
-### 🧠 Understand
+### /Understand
 
 Going beyond syntax and learning what happens behind the tools I use.
 
@@ -93,7 +93,7 @@ Going beyond syntax and learning what happens behind the tools I use.
 
 <td width="33%" valign="top">
 
-### 🔁 Improve
+### /Improve
 
 Revisiting old projects and applying what I know now to what I built before.
 
@@ -104,7 +104,7 @@ Revisiting old projects and applying what I know now to what I built before.
 
 <br>
 
-## 🚀 Things I've built
+## /Things I've built
 
 <p>
   A few projects that represent different stages of my learning:
@@ -147,7 +147,7 @@ Revisiting old projects and applying what I know now to what I built before.
 
 <br>
 
-## 📊 Behind the repositories
+## /Behind the repositories
 
 <p align="center">
   <img
