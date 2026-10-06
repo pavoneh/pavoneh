@@ -105,39 +105,6 @@ status:
 Status: ███████░░░ Building...
 ```
 
----
-
-## 🧩 How I Build
-
-<p align="center">
-
-**💡 Idea**　→　**📝 Design**　→　**💻 Code**　→　**🐛 Debug**　→　**🚀 Result**
-
-</p>
-
-<p align="center">
-  <sub>Build → break → understand → improve → repeat.</sub>
-</p>
-
----
-
-## 🎮 Beyond the Code
-
-```text
-Guillermo@pavoneh
-──────────────────────────────
-
-🎮 Gaming        ██████████
-🖥️ Hardware      ██████████
-🌐 Development   ██████████
-🎨 Web Design    ███████░░░
-🔧 Experimenting █████████░
-
-> There's always something new to learn_
-```
-
----
-
 ## 📊 My GitHub in Numbers
 
 <p align="center">
