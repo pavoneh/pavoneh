@@ -146,24 +146,6 @@ Guillermo@pavoneh
 
 ---
 
-## 📌 Featured Projects
-
-<a href="https://github.com/pavoneh/novaforce-web">
-  <img src="./assets/nova-force.svg" width="100%" alt="Nova Force — Gaming-inspired PC catalog organized by performance tiers. HTML, CSS and Bootstrap." />
-</a>
-
-<br>
-
-<a href="https://github.com/pavoneh/PERU-CAR">
-  <img src="./assets/peru-car.svg" width="100%" alt="Peru Car — Services, gallery and contact website for an auto boutique. HTML, CSS and JavaScript." />
-</a>
-
-<br>
-
-<a href="https://github.com/pavoneh/pagina-web-riotgames">
-  <img src="./assets/riot-games.svg" width="100%" alt="Riot Games Web — Unofficial multi-page website practice project. HTML and CSS." />
-</a>
-
 <br>
 
 <p align="center">
