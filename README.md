@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Guillermo Euribe · @pavoneh · Software Development" />
-</p>
-
 <h1 align="center">Hi, I'm Guillermo 👋</h1>
 
 <p align="center">
