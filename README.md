@@ -85,12 +85,12 @@ status:
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,py,react,tailwind,bootstrap,git,perline&XAMPP=11" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,py,react,tailwind,bootstrap,git&perline=11" alt="Technologies and tools" />
   <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="48" width="48" alt="XAMPP" /> &nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <sub>HTML · CSS · JavaScript · TypeScript · Java · PHP · Python · React · Tailwind CSS · Bootstrap · Git</sub>
+  <sub>HTML · CSS · JavaScript · TypeScript · Java · PHP · Python · React · Tailwind CSS · Bootstrap · Git · XAMPP</sub>
 </p>
 
 ---
