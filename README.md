@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#sobre-mí">👩‍💻  About Me:</a> &nbsp; / &nbsp;
+  <a href="#👩‍💻  About Me:">👩‍💻  About Me:</a> &nbsp; / &nbsp;
   <a href="#tecnologías">Tecnologías</a> &nbsp; / &nbsp;
   <a href="#mi-github-en-números">Estadísticas</a> &nbsp; / &nbsp;
   <a href="#proyectos-destacados">Proyectos</a>
