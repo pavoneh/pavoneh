@@ -1,7 +1,3 @@
-<!-- ====================================================== -->
-<!--                      HEADER                            -->
-<!-- ====================================================== -->
-
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="pavoneh — Software Developer" />
 </p>
@@ -20,12 +16,7 @@
 
 <br>
 
-
-<!-- ====================================================== -->
-<!--                       ABOUT                            -->
-<!-- ====================================================== -->
-
-## 👨‍💻 A little about me
+## yo 😀
 
 I learn best when I have something to build.
 
@@ -50,13 +41,7 @@ const pavoneh = {
 };
 ```
 
-
 <br>
-
-
-<!-- ====================================================== -->
-<!--                      TOOLBOX                           -->
-<!-- ====================================================== -->
 
 ## 🧰 My toolbox
 
@@ -87,13 +72,7 @@ const pavoneh = {
   </sub>
 </p>
 
-
 <br>
-
-
-<!-- ====================================================== -->
-<!--                  WHAT I'M DOING                        -->
-<!-- ====================================================== -->
 
 ## 🧪 What I'm working on
 
@@ -127,13 +106,7 @@ Revisiting old projects and applying what I know now to what I built before.
 </tr>
 </table>
 
-
 <br>
-
-
-<!-- ====================================================== -->
-<!--                    PROJECTS                            -->
-<!-- ====================================================== -->
 
 ## 🚀 Things I've built
 
@@ -178,11 +151,6 @@ Revisiting old projects and applying what I know now to what I built before.
 
 <br>
 
-
-<!-- ====================================================== -->
-<!--                    GITHUB DATA                         -->
-<!-- ====================================================== -->
-
 ## 📊 Behind the repositories
 
 <p align="center">
@@ -202,11 +170,6 @@ Revisiting old projects and applying what I know now to what I built before.
 
 <br>
 
-
-<!-- ====================================================== -->
-<!--                 CONTRIBUTIONS                         -->
-<!-- ====================================================== -->
-
 ## 📈 Building in public
 
 <p align="center">
@@ -223,13 +186,7 @@ Revisiting old projects and applying what I know now to what I built before.
   </sub>
 </p>
 
-
 <br>
-
-
-<!-- ====================================================== -->
-<!--                   THE LOOP                             -->
-<!-- ====================================================== -->
 
 ## ♻️ The loop
 
@@ -250,11 +207,6 @@ Revisiting old projects and applying what I know now to what I built before.
 
 
 <br>
-
-
-<!-- ====================================================== -->
-<!--                     FOOTER                             -->
-<!-- ====================================================== -->
 
 ---
 
