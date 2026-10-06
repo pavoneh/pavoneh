@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="pavoneh — Software Developer" />
-</p>
-
 <h1 align="center">
   Guillermo <code>@pavoneh</code>
 </h1>
@@ -165,44 +161,6 @@ Revisiting old projects and applying what I know now to what I built before.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavoneh&layout=compact&hide_border=true&theme=transparent"
     alt="Most used languages"
   />
-</p>
-
-
-<br>
-
-## 📈 Building in public
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pavoneh&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt="Guillermo's contribution activity"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    Projects change. Technologies change. The goal stays the same: keep building.
-  </sub>
-</p>
-
-<br>
-
-## ♻️ The loop
-
-<p align="center">
-  <code>idea</code>
-  &nbsp;→&nbsp;
-  <code>build</code>
-  &nbsp;→&nbsp;
-  <code>break</code>
-  &nbsp;→&nbsp;
-  <code>debug</code>
-  &nbsp;→&nbsp;
-  <code>understand</code>
-  &nbsp;→&nbsp;
-  <code>improve</code>
-  &nbsp;↻
 </p>
 
 
