@@ -12,7 +12,7 @@
 
 <br>
 
-## yo 😀
+## 🚬
 
 I learn best when I have something to build.
 
@@ -165,19 +165,3 @@ Revisiting old projects and applying what I know now to what I built before.
 
 
 <br>
-
----
-
-<p align="center">
-  <strong>I'm not trying to know everything.</strong>
-</p>
-
-<p align="center">
-  I'm trying to understand more with every project I build.
-</p>
-
-<p align="center">
-  <a href="https://github.com/pavoneh?tab=repositories">
-    <code>./explore-projects</code>
-  </a>
-</p>
