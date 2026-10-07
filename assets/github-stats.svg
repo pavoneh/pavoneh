@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="350" viewBox="0 0 1100 350" role="img" aria-labelledby="title desc">
   <title id="title">GitHub de pavoneh: 3 proyectos, 0 estrellas</title>
-  <desc id="desc">Datos de repositorios públicos propios, sin forks ni archivados. Se excluyen los repositorios de perfil pavoneh y Guillermo1euribe. Lenguajes medidos por bytes de código, no por tiempo de uso. Actualizado: 2026-10-06 · UTC.</desc>
+  <desc id="desc">Datos de repositorios públicos propios, sin forks ni archivados. Se excluyen los repositorios de perfil pavoneh y Guillermo1euribe. Lenguajes medidos por bytes de código, no por tiempo de uso. Actualizado: 2026-10-07 · UTC.</desc>
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#43e4dc"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#43e4dc" stop-opacity=".08"/><stop offset="1" stop-color="#43e4dc" stop-opacity="0"/></radialGradient>
@@ -15,7 +15,7 @@
   </g>
   <circle cx="41" cy="43" r="4" fill="#43e4dc"/>
   <text x="54" y="48" fill="#43e4dc" font-size="13" font-weight="600" letter-spacing="2">GITHUB / SNAPSHOT</text>
-  <text x="1050" y="48" text-anchor="end" class="muted tiny">2026-10-06 · UTC</text>
+  <text x="1050" y="48" text-anchor="end" class="muted tiny">2026-10-07 · UTC</text>
   <text x="36" y="105" fill="#f0f6fc" font-size="27" font-weight="650">Código en movimiento.</text>
   <text x="36" y="131" class="muted" font-size="14">Lo que estoy construyendo en público.</text>
   <text x="36" y="215" class="metric">3</text>
